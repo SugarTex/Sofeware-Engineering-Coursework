@@ -1,0 +1,7 @@
+{
+  "name": "Campus Food Flow & Optimization System",
+  "description": "A comprehensive local campus food ordering platform with real-time crowd flow monitoring, deep learning-based predictions, and NLP product optimization recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
